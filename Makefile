@@ -2,6 +2,7 @@ CFLAGS = -Wall -Wextra -Werror
 CPPFLAGS = -I src -MMD
 DIR_GUARD = @mkdir -p $(@D)
 
+
 all: bin/geom
 
 -include obj/*.d

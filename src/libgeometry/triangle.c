@@ -2,6 +2,7 @@
 #include <math.h>
 #include "triangle.h"
 
+
 int triangle(int Ax, int Ay,int Bx, int By, int Cx, int Cy)
 {
     printf("Введите координаты первой точки:");
