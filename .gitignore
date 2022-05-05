@@ -2,8 +2,8 @@
 *~
 *swp
 *.txt
-bin\
-obj\
+bin/
+obj/
 main
 .vscode/
 *.DS_Store
