@@ -1,4 +1,9 @@
+*.[oa]
 *~
-*ex
-*.swp
-*.o
+*swp
+bin/
+obj/
+*.txt
+main
+.vscode/
+*.DS_Store
