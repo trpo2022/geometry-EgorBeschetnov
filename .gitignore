@@ -1,8 +1,8 @@
 *.[oa]
 *~
 *swp
-bin/
-obj/
+bin
+obj
 *.txt
 main
 .vscode/

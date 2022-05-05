@@ -24,4 +24,4 @@ obj/lib.a: obj/circle.o obj/triangle.o
 	ar rcs $@ $^
 
 clean:
-	rm bin/* obj/
+	rm bin/* obj/*
