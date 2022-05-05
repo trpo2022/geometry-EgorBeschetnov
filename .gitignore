@@ -7,5 +7,5 @@ obj\
 main
 .vscode/
 *.DS_Store
-
+*.d
 
